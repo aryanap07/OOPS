@@ -1,2 +1,2 @@
 # OOPS
-Implementations of Object-Oriented Programming in Java.
+Implementations: Object-Oriented Programming in Java.
